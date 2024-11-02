@@ -1,0 +1,33 @@
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello world.csproj.AssemblyReference.cache
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello world.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello world.AssemblyInfoInputs.cache
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello world.AssemblyInfo.cs
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello world.csproj.CoreCompileInputs.cache
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello world.MvcApplicationPartsAssemblyInfo.cs
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello world.MvcApplicationPartsAssemblyInfo.cache
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello world.sourcelink.json
+D:\Git Shit\PPPI3\Hello world\bin\Debug\net8.0\appsettings.Development.json
+D:\Git Shit\PPPI3\Hello world\bin\Debug\net8.0\appsettings.json
+D:\Git Shit\PPPI3\Hello world\bin\Debug\net8.0\Hello world.exe
+D:\Git Shit\PPPI3\Hello world\bin\Debug\net8.0\Hello world.deps.json
+D:\Git Shit\PPPI3\Hello world\bin\Debug\net8.0\Hello world.runtimeconfig.json
+D:\Git Shit\PPPI3\Hello world\bin\Debug\net8.0\Hello world.dll
+D:\Git Shit\PPPI3\Hello world\bin\Debug\net8.0\Hello world.pdb
+D:\Git Shit\PPPI3\Hello world\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Git Shit\PPPI3\Hello world\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git Shit\PPPI3\Hello world\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git Shit\PPPI3\Hello world\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\staticwebassets.build.json
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\staticwebassets.development.json
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\staticwebassets\msbuild.Hello world.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\staticwebassets\msbuild.build.Hello world.props
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hello world.props
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hello world.props
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\scopedcss\bundle\Hello world.styles.css
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello wo.0227D5D2.Up2Date
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello world.dll
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\refint\Hello world.dll
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello world.pdb
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\Hello world.genruntimeconfig.cache
+D:\Git Shit\PPPI3\Hello world\obj\Debug\net8.0\ref\Hello world.dll
