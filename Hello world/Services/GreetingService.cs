@@ -17,7 +17,7 @@ namespace Hello_world.Services
             var name = _dataRepository.GetFullName();
             var responseTime = _dataRepository.GetResponseTime();
 
-            return $"{greeting}\n{name}\nExecution time {responseTime}";
+            return $"{greeting} {name} Execution time: {responseTime}";
         }
     }
 }

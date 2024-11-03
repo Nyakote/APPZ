@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DJw5mk983Boy/fyc7ryX/bWGV5FyG02AxrgdWc98hnA6AIV4aOf8lFMgxeH6iEX/z8dA6DKchwoxbZz2Z29Ssw==",
+  "dgSpecHash": "xBbvNkqFhLU+2Y0vx67hF/litmY+g1QfPbD3UXKIDuTctE7CG+5fFFNBMFO2SvhuIg9yWL5LpKlrFDBPjoRo9Q==",
   "success": true,
-  "projectFilePath": "D:\\Git Shit\\PPPI3\\Hello world\\Hello world.csproj",
+  "projectFilePath": "D:\\Git Shit\\APPZ\\Hello world\\Hello world.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dim4k\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\dim4k\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

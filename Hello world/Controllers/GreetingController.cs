@@ -9,16 +9,17 @@ namespace Hello_world.Controllers
     {
         private readonly GreetingService _greetingService;
 
-        public GreetingController()
+        public GreetingController(GreetingService greetingService)
         {
-            _greetingService = new GreetingService();
+            _greetingService = greetingService ?? throw new ArgumentNullException(nameof(greetingService));
         }
 
         [HttpGet]
         public IActionResult Get()
         {
             var message = _greetingService.GetGreetingMessage();
-            return Ok(message);
+
+            return Content(message);
         }
     }
 }

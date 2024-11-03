@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git Shit\\PPPI3\\Hello world\\Hello world.csproj",
+      "projectUniqueName": "D:\\Git Shit\\APPZ\\Hello world\\Hello world.csproj",
       "projectName": "Hello world",
-      "projectPath": "D:\\Git Shit\\PPPI3\\Hello world\\Hello world.csproj",
+      "projectPath": "D:\\Git Shit\\APPZ\\Hello world\\Hello world.csproj",
       "packagesPath": "C:\\Users\\dim4k\\.nuget\\packages\\",
-      "outputPath": "D:\\Git Shit\\PPPI3\\Hello world\\obj\\",
+      "outputPath": "D:\\Git Shit\\APPZ\\Hello world\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\IDE SHIT\\IDE tools\\NuGetPackages"

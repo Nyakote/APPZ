@@ -1,3 +1,5 @@
+ï»¿using Hello_world.Services;
+
 namespace Hello_world
 {
     public class Program
@@ -11,21 +13,14 @@ namespace Hello_world
 
             app.UseAuthorization();
 
-            // Âêàçóºìî ìàðøðóòè
+          
             app.MapGet("/", () =>
             {
-                var greetings = "Hello world";
-                var name = "I'm Nevmivaka Dmitriy Andriyovich PR-3-2";
-                var responseTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                return Results.Content($"{greetings}<br />{name}<br />Execution time {responseTime}", "text/html");
+                var greetingService = new GreetingService();
+                return Results.Ok(greetingService.GetGreetingMessage());
             });
 
 
-
-            app.MapGet("/greet/{name}", (string name) =>
-            {
-                return Results.Ok($"Hello, {name}!");
-            });
 
             app.Run();
         }
